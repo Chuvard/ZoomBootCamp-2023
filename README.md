@@ -9,3 +9,8 @@
 ## Week 2 Home Work 
   * Notebook: HW_2.ipynb
   * Data set: 'housing.csv'
+
+
+## Week 3 Home Work 
+  * Notebook: HW_3.ipynb
+  * Data set: 'car_price_data.csv'
