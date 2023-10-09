@@ -14,3 +14,8 @@
 ## Week 3 Home Work 
   * Notebook: HW_3.ipynb
   * Data set: 'car_price_data.csv'
+
+
+## Week 4 Home Work 
+  * Notebook: HW_4.ipynb
+  * Data set: 'car_price_data.csv'
